@@ -18,7 +18,7 @@ const Modal: FC<Props> = ({ open, handleOpen }) => {
       <DialogHeader>Welcome to the memory game!</DialogHeader>
       <DialogBody divider className="flex-1">
         <p>
-          This is a game that will test your memory with images of dogs. in each
+          This is a game that will test your memory with images of dogs. In each
           round you will click on a dog image and the images will be shuffled
           around. Don't click the same dog twice! You earn a point for each
           unique dog that you click, but you lose if you click a dog for the
