@@ -1,6 +1,6 @@
 # Memory-Dogs
 
-This is my subission for the TrueCoders Memory Card project. This app was built with React and TypeScript. It is an update of a Memory Game project that I previously completed when learning React.
+This is my subission for the TrueCoders Memory Card project. This app was built with React and TypeScript. It is an update of a Memory Game project that I previously completed when learning React. There is a live deployment on vercel [here](https://memory-dogs.vercel.app/).
 
 ## Technologies used
 
